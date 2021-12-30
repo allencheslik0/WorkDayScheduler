@@ -1,7 +1,6 @@
 # WorkDayScheduler
 This is a simple calendar application that allows a user to save events for each hour of the day
 > Live Demo. https://allencheslik0.github.io/WorkDayScheduler/
-
 ## Screenshot
 
 > ![screenshot] https://user-images.githubusercontent.com/85700458/147722206-0ce39b80-634e-4b0c-b179-29c62233f3b1.PNG
